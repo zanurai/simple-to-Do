@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    margin: auto;
+    max-width: 1100px;
+    color: white;
+}
+
+.topic {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+form {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+}
