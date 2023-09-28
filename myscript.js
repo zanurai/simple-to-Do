@@ -6,6 +6,7 @@ const form = document.querySelector("form");
 
 //addEventListener for submit event
 
+
 form.addEventListener('submit', (event) => {
     event.prvenDtefault();
 
